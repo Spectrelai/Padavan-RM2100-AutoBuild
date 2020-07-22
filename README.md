@@ -1,2 +1,2 @@
-# Padavan-build for RedMi AC2100
+# Padavan-build for Redmi AC2100
 
